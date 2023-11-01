@@ -1,0 +1,5 @@
+PAGE_VIEW_ID (primary key),USER_ID,PAGE_VIEW_TIMESTAMP,PAGE_URL,PAGE_CATEGORY
+12345678,RTYUIO4567,2022-11-10T21:34:33Z,https://www.notonthehighstreet.com/cards-wrap/cards/shop-by-occasion/new-home,category
+345678,ZXCVBN34,2023-04-10T10:12:43Z,https://www.notonthehighstreet.com/cart,cart
+9876,ZXCVBN34,2023-04-10T10:11:19Z,https://www.notonthehighstreet.com/overthec/product/you-re-in-letterpress-new-home-card?referredBy=plp,product
+4567890,FGHJKL9,2023-04-13T20:00:59Z,https://www.notonthehighstreet.com/,homepage

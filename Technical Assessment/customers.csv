@@ -1,0 +1,5 @@
+CUSTOMER_ID (primary key),AGE,FIRST_NAME,LAST_NAME
+100,30,Erik,Bolton
+101,81,Diane,Stokes
+102,23,Fatima,Hendricks
+103,45,Kevin,Lang
